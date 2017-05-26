@@ -1,13 +1,14 @@
 # README
+Ruby on rials learning and practice.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+rails guide
+https://railsguides.jp/active_record_basics.html
 
 * Ruby version
+ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]
 
 * System dependencies
+Developed in MacOS
 
 * Configuration
 
